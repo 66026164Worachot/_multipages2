@@ -1,0 +1,42 @@
+.add-container{
+    
+    display: flex;
+    /* justify-content: center; จัดวางกล่องให้มีระยะห่างเท่ากัน */
+    /* border: 1px solid; */
+    border-radius: 0.5rem;
+    /* padding: 0.8rem; */
+    /* margin-bottom: 0.5rem; */
+    background-color: azure;
+ 
+}
+
+.add-title{
+    
+    color: rgb(4, 4, 82);
+}
+
+.add-variable{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr; /*ปรับความเอียงของกล่องชิดซ้าย/ขวา */
+    gap: 0.5rem;
+}
+
+.add-display{
+    gap: 0.5rem;
+}
+
+.add1-con{
+    width: 100%;
+    border: 1px solid;
+    border-radius: 0.5rem;
+    text-align: center;
+    margin: 10px;
+
+}
+
+/* .add2-con{
+    border: 1px solid;
+    padding: 0.5rem;
+
+} */
