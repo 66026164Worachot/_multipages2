@@ -91,7 +91,7 @@ const Animation = () => {
   const changeImage = (type) => {
     switch (type) {
       case "basketball":
-        setBallImage("url(./png-transparent-basketball-illustration-basketball-sports-equipment-sports-league-woodville-tompkins-institute-basketball-sport-orange-team-thumbnail-removebg-preview.png)");
+        setBallImage("url(./basketball.png)");
         break;
       case "football":
         setBallImage("url(./F4A2000_M1.jpg)");
