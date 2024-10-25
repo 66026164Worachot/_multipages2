@@ -100,7 +100,7 @@ const Animation = () => {
         setBallImage("url(./Volleyball.jpg)");
         break;
       case "human":
-        setBallImage("url('/Guide.png')");
+        setBallImage("url(./Guide.png)");
         break;
       case "cartoon":
         setBallImage("url(./photo-1515041219749-89347f83291a.jpg)");

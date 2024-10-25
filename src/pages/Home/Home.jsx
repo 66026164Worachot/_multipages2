@@ -5,8 +5,7 @@ function Home() {
         <div className='home-container-border'>
             {/* <h1>HOME</h1> */}
             <div className='home-container'>
-
-                <img src="src/assets/Guide.png" className='Guide-img' />
+                <img src="./Guide.png" alt="My Image" className="profile-image" />
                 <h1 >นาย วรโชติ วังหา</h1>
                 <h2 >66026164</h2>
                 <div>
